@@ -1,0 +1,23 @@
+.card {
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 300px;
+    width: 300px;
+    margin-top: 16px;
+}
+
+
+.card img {
+    height: 200px;
+    width: auto;
+}
+
+.top img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.price {
+    height: 33.333333%;
+}
